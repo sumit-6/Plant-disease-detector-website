@@ -39,7 +39,7 @@ You can follow the steps provided below to start using this project:
    python api/main.py
    ```
 
-# Website Looks
+# Output
 1. Command for running main.py
 ![Home](https://github.com/sumit-6/Plant-disease-detector-website/blob/main/img/1.JPG)
 2. FastAPI framework
