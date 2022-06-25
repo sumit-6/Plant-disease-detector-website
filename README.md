@@ -1,7 +1,7 @@
 # Plant disease detector website
 
 <!-- ## Definition -->
-A website that describes and detect plant disease via scanning an image of a leaf.
+A website that describes and detects plant disease via scanning an image of a leaf.
 
 ### Built With
 
