@@ -42,7 +42,11 @@ You can follow the steps provided below to start using this project:
    ```
    http://localhost:8000/docs
    ```
-
+# Website Look
+Go to the following link:
+```
+rebel-crop.vercel.app
+```
 # Output
 1. Command for running main.py
 ![Home](https://github.com/sumit-6/Plant-disease-detector-website/blob/main/img/1.JPG)
