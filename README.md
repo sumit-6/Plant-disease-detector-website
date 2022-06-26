@@ -38,6 +38,10 @@ You can follow the steps provided below to start using this project:
    ```
    python api/main.py
    ```
+7. Go to the given link:
+   ```
+   http://localhost:8000/docs
+   ```
 
 # Output
 1. Command for running main.py
